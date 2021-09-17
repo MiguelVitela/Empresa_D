@@ -1,3 +1,4 @@
 calificaciones = [9, 10, 8, 10, 8, 9]
 print(calificaciones)
-print(len(califiaciones))
+print(len(calificaciones))
+print(min(calificaciones))
