@@ -1,4 +1,4 @@
-calificaciones = [9, 10, 8, 10, 8, 9]
+calificaciones = [9, 10, 8, 10, 8, 9, 9, 10]
 print(calificaciones)
 print(len(calificaciones))
 print(min(calificaciones))
