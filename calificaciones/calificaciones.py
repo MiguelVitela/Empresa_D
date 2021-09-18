@@ -4,3 +4,5 @@ print(len(calificaciones))
 print(min(calificaciones))
 print(max(calificaciones))
 print("pinches niños burros alv")
+
+print("Aqui estamos jugando con ellas desde github")
